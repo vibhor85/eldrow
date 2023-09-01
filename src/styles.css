@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+}
